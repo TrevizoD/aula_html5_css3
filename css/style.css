@@ -1,0 +1,38 @@
+body {
+	background: #7FCCD8;
+	margin-left: 100px;
+	margin-right: 200px;
+}
+
+header{
+	margin-top: 70px;
+}
+
+h1{
+	color: rebeccapurple;
+	font-family: Gill Sans MT;
+}
+
+h2{
+	font-family: Calibri;
+}
+
+p{
+	font-size: 18px;
+	font-family: Calibri;
+}
+
+.img_padrao{
+	margin-bottom: 20px;
+	width: 300px;
+}
+
+.logo{
+	width: 50px;
+}
+
+footer{
+	margin-bottom: 30px;
+	margin-top: 200px;
+	text-align: right;
+}
